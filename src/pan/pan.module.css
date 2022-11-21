@@ -1,0 +1,15 @@
+.pan {
+    height: 100%;
+    width: 2px;
+    background: blue;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.panDisplay {
+    border: 2px solid blue;
+    position: absolute;
+    top: 30%;
+    left: 0;
+}

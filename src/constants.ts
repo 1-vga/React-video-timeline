@@ -1,0 +1,12 @@
+export const snapToGridAfterDrop = true;
+export const snapToGridWhileDragging = true;
+export const ZOOM_STEP = 2;
+export const DEFAULT_DURATION = 300; //5min in seconds;
+export const MIN_INTERVAL_NUMBER = 15;
+export const MIN_ZOOM = 1;
+export const MAX_ZOOM = 8;
+export const ROW_HEIGHT = 98;
+export const MIN_RULER_WIDTH_PX = 1000;
+export const MIN_RULER_WIDTH_SECONDS = 120;
+export const RULER_CLEARANCE = 25; // %
+export const PAN_STEP = 100;
