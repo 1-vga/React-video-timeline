@@ -13,7 +13,7 @@ const styles: CSSProperties = {
   border: '1px solid black',
   position: 'relative',
 }
-
+ 
 export interface ContainerProps {
   zoom: number;
   clips: Clip[];
