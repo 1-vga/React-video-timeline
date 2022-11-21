@@ -35,7 +35,7 @@ document
         }, 1000)
       );
   }
-
+ 
   return (
     <div ref={panRef} className={styles.pan}>
         <div className={styles.panDisplay}>
